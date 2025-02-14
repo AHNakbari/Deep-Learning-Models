@@ -9,7 +9,6 @@ Welcome to the **Deep Learning Models** repository! This collection showcases va
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -77,11 +76,3 @@ Contributions are welcome! If you have suggestions for improvements or new model
 5. Open a Pull Request.
 
 Please ensure your contributions align with the repository's coding style and include appropriate documentation.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides a clear and organized overview of your repository, guiding users through the available models and how to utilize them effectively. Let me know if you need any further assistance! 🚀 
